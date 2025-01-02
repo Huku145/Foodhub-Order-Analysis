@@ -1,0 +1,1 @@
+I have been given the task of building a recommendation system to recommend products to customers based on their previous ratings for other products. I have a collection of labeled data of Amazon reviews of products. The goal is to extract meaningful insights from the data and build a recommendation system that helps in recommending products to online consumers.
